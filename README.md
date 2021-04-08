@@ -1,4 +1,4 @@
-# fractals
+# Fractals
 This is a Python class "Fractal" to create different fractals (Mandelbrot and Julia).
 This is a nice first aproach, if you want to do something faster I will recomend you use Tensorflow 
 
